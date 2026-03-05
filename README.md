@@ -18,7 +18,6 @@ The workflow simulates real-world cloud infrastructure tasks performed by DevOps
 
 ## Architecture Diagram
 
-> Add the generated architecture diagram image here.
 
 ![Architecture Diagram](./EBS_learning.png)
 
